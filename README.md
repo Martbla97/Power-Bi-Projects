@@ -1,3 +1,3 @@
-# Power-Bi-Projects
+# Brazil e-commerce
 
-This repository contains all the projects I've been doing in my career as a data analyst.
+This project shows the different kind of data regarding e-commerce sales, and how it interacts with each other. 
